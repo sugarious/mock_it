@@ -1,0 +1,29 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Home Cleaning",
+      "image": "vacuum.svg",
+    },
+    {
+      "id": 2,
+      "title": "Electrical",
+      "image": "electrician.svg",
+    },
+    {
+      "id": 3,
+      "title": "Painting",
+      "image": "painter.svg",
+    },
+    {
+      "id": 4,
+      "title": "Plumbing",
+      "image": "pipes.svg",
+    },
+    {
+      "id": 5,
+      "title": "Operator",
+      "image": "operator.svg",
+    }
+  ]
+}
