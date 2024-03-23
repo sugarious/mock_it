@@ -1,0 +1,158 @@
+{
+  "peoples": [
+    {
+      "id": 1,
+      "cid": 1,
+      "name": "Sulav Parajuli",
+      "profession": "Software Developer",
+      "metro": "Biratnagar",
+      "hrs": "10:00-17:00 (NPT)",
+      "phone": "9800000000",
+      "whatsapp": "9800000000",
+      "pic": "https://i.pravatar.cc/150?u=1"
+    },
+    {
+      "id": 2,
+      "cid": 1,
+      "name": "Garima Bhattarai",
+      "profession": "Flutter Developer",
+      "metro": "Biratnagar",
+      "hrs": "10:00-17:00 (NPT)",
+      "phone": "9800000000",
+      "whatsapp": "9800000000",
+      "pic": "https://i.pravatar.cc/150?u=2"
+    },
+    {
+      "id": 3,
+      "cid": 4,
+      "name": "Ramesh Sharma",
+      "profession": "Data Scientist",
+      "metro": "Kathmandu",
+      "hrs": "09:00-16:00 (NPT)",
+      "phone": "9811111111",
+      "whatsapp": "9811111111",
+      "pic": "https://i.pravatar.cc/150?u=3"
+    },
+    {
+      "id": 4,
+      "cid": 2,
+      "name": "Anita Shrestha",
+      "profession": "Web Developer",
+      "metro": "Pokhara",
+      "hrs": "08:00-15:00 (NPT)",
+      "phone": "9822222222",
+      "whatsapp": "9822222222",
+      "pic": "https://i.pravatar.cc/150?u=4"
+    },
+    {
+      "id": 5,
+      "cid": 3,
+      "name": "Raj Kumar",
+      "profession": "UI/UX Designer",
+      "metro": "Butwal",
+      "hrs": "09:30-16:30 (NPT)",
+      "phone": "9833333333",
+      "whatsapp": "9833333333",
+      "pic": "https://i.pravatar.cc/150?u=5"
+    },
+    {
+      "id": 6,
+      "cid": 3,
+      "name": "Shova Thapa",
+      "profession": "Mobile App Developer",
+      "metro": "Hetauda",
+      "hrs": "09:00-16:00 (NPT)",
+      "phone": "9844444444",
+      "whatsapp": "9844444444",
+      "pic": "https://i.pravatar.cc/150?u=6"
+    },
+    {
+      "id": 7,
+      "cid": 5,
+      "name": "Amit Singh",
+      "profession": "Backend Developer",
+      "metro": "Dharan",
+      "hrs": "10:00-17:00 (NPT)",
+      "phone": "9855555555",
+      "whatsapp": "9855555555",
+      "pic": "https://i.pravatar.cc/150?u=7"
+    },
+    {
+      "id": 8,
+      "cid": 2,
+      "name": "Sunita Rai",
+      "profession": "Full Stack Developer",
+      "metro": "Birgunj",
+      "hrs": "08:30-15:30 (NPT)",
+      "phone": "9866666666",
+      "whatsapp": "9866666666",
+      "pic": "https://i.pravatar.cc/150?u=8"
+    },
+    {
+      "id": 9,
+      "cid": 1,
+      "name": "Suman KC",
+      "profession": "Software Engineer",
+      "metro": "Janakpur",
+      "hrs": "09:00-16:00 (NPT)",
+      "phone": "9877777777",
+      "whatsapp": "9877777777",
+      "pic": "https://i.pravatar.cc/150?u=9"
+    },
+    {
+      "id": 10,
+      "cid": 4,
+      "name": "Aashish Pandey",
+      "profession": "Frontend Developer",
+      "metro": "Bharatpur",
+      "hrs": "08:00-15:00 (NPT)",
+      "phone": "9888888888",
+      "whatsapp": "9888888888",
+      "pic": "https://i.pravatar.cc/150?u=10"
+    },
+    {
+      "id": 11,
+      "cid": 3,
+      "name": "Manisha Thapa",
+      "profession": "Software Developer",
+      "metro": "Biratnagar",
+      "hrs": "10:00-17:00 (NPT)",
+      "phone": "9800000000",
+      "whatsapp": "9800000000",
+      "pic": "https://i.pravatar.cc/150?u=11"
+    },
+    {
+      "id": 12,
+      "cid": 5,
+      "name": "Prakash Shah",
+      "profession": "Flutter Developer",
+      "metro": "Biratnagar",
+      "hrs": "10:00-17:00 (NPT)",
+      "phone": "9800000000",
+      "whatsapp": "9800000000",
+      "pic": "https://i.pravatar.cc/150?u=12"
+    },
+    {
+      "id": 13,
+      "cid": 1,
+      "name": "Anita Shrestha",
+      "profession": "Data Scientist",
+      "metro": "Kathmandu",
+      "hrs": "09:00-16:00 (NPT)",
+      "phone": "9811111111",
+      "whatsapp": "9811111111",
+      "pic": "https://i.pravatar.cc/150?u=13"
+    },
+    {
+      "id": 14,
+      "cid": 3,
+      "name": "Rajendra Shrestha",
+      "profession": "Web Developer",
+      "metro": "Pokhara",
+      "hrs": "08:00-15:00 (NPT)",
+      "phone": "9822222222",
+      "whatsapp": "9822222222",
+      "pic": "https://i.pravatar.cc/150?u=14"
+    }
+  ]
+}
