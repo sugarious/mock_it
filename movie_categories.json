@@ -2,57 +2,57 @@
   "data": [
     {
       "id": 1,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/sugarious/mock_it/main/Container.png",
       "title": "Adventure"
     },
     {
       "id": 2,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/sugarious/mock_it/main/Container.png",
       "title": "Action"
     },
     {
       "id": 3,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/sugarious/mock_it/main/Container.png",
       "title": "Comedy"
     },
     {
       "id": 4,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/sugarious/mock_it/main/Container.png",
       "title": "Drama"
     },
     {
       "id": 5,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/sugarious/mock_it/main/Container.png",
       "title": "Romance"
     },
     {
       "id": 6,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/sugarious/mock_it/main/Container.png",
       "title": "Horror"
     },
     {
       "id": 7,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/sugarious/mock_it/main/Container.png",
       "title": "Science Fiction"
     },
     {
       "id": 8,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/sugarious/mock_it/main/Container.png",
       "title": "Fantasy"
     },
     {
       "id": 9,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/sugarious/mock_it/main/Container.png",
       "title": "Mystery"
     },
     {
       "id": 10,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/sugarious/mock_it/main/Container.png",
       "title": "Thriller"
     },
     {
       "id": 11,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/sugarious/mock_it/main/Container.png",
       "title": "Crime"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "id": 13,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/sugarious/mock_it/main/Container.png",
       "title": "Animation"
     },
     {
@@ -77,7 +77,7 @@
     },
     {
       "id": 16,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/sugarious/mock_it/main/Container.png",
       "title": "Musical"
     },
     {
@@ -87,17 +87,17 @@
     },
     {
       "id": 18,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/sugarious/mock_it/main/Container.png",
       "title": "Biography"
     },
     {
       "id": 19,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/sugarious/mock_it/main/Container.png",
       "title": "War"
     },
     {
       "id": 20,
-      "image": "",
+      "image": "https://raw.githubusercontent.com/sugarious/mock_it/main/Container.png",
       "title": "Sports"
     }
   ]
